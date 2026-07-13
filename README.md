@@ -56,7 +56,7 @@ There is minimal difference in interferon response markers in CD14 and CD16 mono
 **Does activation of B cells influence B cell interferon response?**
 Activation of B cells has minimal influence on B cell interferon response
 
-![Figure 1: B cell state has little to no influence on interferon response](docs/figures/B_response.png)
+![Figure 1: B cell state has little to no influence on interferon response](B_response.png)
 
 <br>
 <br>
@@ -65,7 +65,7 @@ Activation of B cells has minimal influence on B cell interferon response
 **What influence does T cell type and state have on the interferon response?**
 T cell type and state have little to no influence on interferon response
 
-![Figure 2: CD4 T cell state has little to no influence on interferon response](docs/figures/CD4_response.png)
+![Figure 2: CD4 T cell state has little to no influence on interferon response](CD4_response.png)
 
 <br>
 <br>
